@@ -3,7 +3,6 @@ title: "Encode with Precision, Achieve Machine Learning Vision"
 datePublished: Tue Apr 02 2024 01:01:33 GMT+0000 (Coordinated Universal Time)
 cuid: cluhoblnw000108l749xgfkss
 slug: encode-with-precision-achieve-machine-learning-vision
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1712020511646/c580dae7-58a0-4643-b8b1-88d153201be8.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1712020550031/bb9f197b-9976-4a8c-b333-d05d25f1f1ed.jpeg
 tags: data-science, categorical-data
 
